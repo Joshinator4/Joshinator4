@@ -67,3 +67,6 @@ Creo firmemente en la importancia de la **constancia**, el **esfuerzo** y la **i
 > **"Constancia + esfuerzo + ilusión = éxito"**
 
 ---
+
+## :mailbox: Conectamos: 
+- **LinkedIn:** [Joshua Sangareau Quesada](www.linkedin.com/in/joshua-sangareau-quesada)
