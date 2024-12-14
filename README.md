@@ -21,14 +21,17 @@ Soy una persona constante y apasionada, motivada por cumplir objetivos y alcanza
 ## 💻 Tecnologías y herramientas
 ### Lenguajes que conozco:
 - Java
+- -JavaScript
 - TypeScript
 - Python
+- Angular
 - HTML5
 - Algo de C++
+- Algo de Kotlin
 
 ### Aprendiendo actualmente:
-- Angular
 - Django
+- Laravel
 
 ### En mi radar:
 - FastAPI
