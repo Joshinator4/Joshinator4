@@ -21,7 +21,7 @@ Soy una persona constante y apasionada, motivada por cumplir objetivos y alcanza
 ## 💻 Tecnologías y herramientas
 ### Lenguajes que conozco:
 - Java
-- -JavaScript
+- JavaScript
 - TypeScript
 - Python
 - Angular
